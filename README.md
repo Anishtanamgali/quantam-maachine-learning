@@ -1,2 +1,2 @@
-# quantam-maachine-learning
+# quantam-machine-learning
 qml
